@@ -1,0 +1,5 @@
+[
+  { "name": "José", "email": "jose@email.com", "password": "12345", "cpf": "123.456.789-00" },
+  { "name": "Maria", "email": "maria@email.com", "password": "abc123", "cpf": "987.654.321-00" },
+  { "name": "Carlos", "email": "carlos@email.com", "password": "senha321", "cpf": "111.222.333-44" }
+]
